@@ -11,7 +11,6 @@ This repository demonstrates my **structured, verification-oriented approach** t
 - Captured **waveforms** to visualize behavior and validate timing.
 - Maintained **daily notes** on learnings, assertions, and corner-case testing.
 - This journey reflects **consistent practice**, showing discipline and deep understanding of design verification.
-- 
  **"Consistency is the bridge between learning and mastery. Each block here is verified, documented, and ready for real-world verification workflows."**
   
 # Learning & Verification Approach
