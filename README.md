@@ -16,22 +16,24 @@ This repository demonstrates my **structured, verification-oriented approach** t
   
 # Learning & Verification Approach
 
-1. **Understand the Digital Design Concept**  
-   Focused on both combinational and sequential circuits.
+1. **Understand the Digital Design Concept**
+   
+     Focused on both combinational and sequential circuits.
 
-2. **Write Synthesizable RTL in Verilog**  
-   Every block is designed with industry-style RTL practices.
+3. **Write Synthesizable RTL in Verilog**
+   
+     Every block is designed with industry-style RTL practices.
 
-3. **Create SystemVerilog Testbenches**  
+5. **Create SystemVerilog Testbenches**  
    - Exhaustive stimulus  
    - Self-checking assertions  
    - Random and edge-case inputs
 
-4. **Observe & Document Behavior**  
+6. **Observe & Document Behavior**  
    - Waveforms captured via simulator  
    - Notes on corner cases, verification strategy, and lessons learned
 
-5. **Maintain Daily Consistency**   
+7. **Maintain Daily Consistency**   
    - Every day adds one or more designs  
    - Demonstrates **discipline, learning maturity, and verification mindset**
 
@@ -61,6 +63,6 @@ This repository demonstrates my **structured, verification-oriented approach** t
 
 # Note to Recruiters / Engineers
 
-> This repository is a **reflection of structured, verification-oriented learning**, showing the combination of **digital design knowledge**, **systematic verification**, and **daily discipline** — exactly what’s required for **Design Verification roles in companies**.
+This repository is a **reflection of structured, verification-oriented learning**, showing the combination of **digital design knowledge**, **systematic verification**, and **daily discipline** — exactly what’s required for **Design Verification roles in companies**.
 
 # Let’s build something amazing!
